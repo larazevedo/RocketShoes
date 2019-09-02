@@ -42,7 +42,7 @@ export const ProductList = styled.ul`
 
       display: flex;
       align-items: center;
-      transition: background 0.2s
+      transition: background 0.2s;
 
       &:hover {
         background: ${darken(0.05, '#7159c1')};

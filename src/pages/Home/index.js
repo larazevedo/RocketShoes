@@ -7,7 +7,7 @@ export default function Home() {
     <ProductList>
       <li>
         <img
-          src="https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_detalhe2.jpg?ims=326x"
+          src="https://images.lojanike.com.br/landingpage/ni/184/10/assets/img/air-jordan-xxxiii-azul.jpg"
           alt="Tênis"
         />
         <strong>Tênis muito legal!</strong>
@@ -21,7 +21,7 @@ export default function Home() {
       </li>
       <li>
         <img
-          src="https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_detalhe2.jpg?ims=326x"
+          src="https://images.lojanike.com.br/landingpage/ni/184/10/assets/img/jordan-proto-react.jpg"
           alt="Tênis"
         />
         <strong>Tênis muito legal!</strong>
@@ -35,7 +35,7 @@ export default function Home() {
       </li>
       <li>
         <img
-          src="https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_detalhe2.jpg?ims=326x"
+          src="https://images.lojanike.com.br/320x320/produto/99904_783137_20190704203531.png"
           alt="Tênis"
         />
         <strong>Tênis muito legal!</strong>
@@ -49,7 +49,7 @@ export default function Home() {
       </li>
       <li>
         <img
-          src="https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_detalhe2.jpg?ims=326x"
+          src="https://images.lojanike.com.br/320x320/produto/96941_1559534_20190730081031.png"
           alt="Tênis"
         />
         <strong>Tênis muito legal!</strong>
@@ -63,7 +63,7 @@ export default function Home() {
       </li>
       <li>
         <img
-          src="https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_detalhe2.jpg?ims=326x"
+          src="https://images.lojanike.com.br/320x320/produto/89565_1224668_20190723100842.png"
           alt="Tênis"
         />
         <strong>Tênis muito legal!</strong>
@@ -77,7 +77,7 @@ export default function Home() {
       </li>
       <li>
         <img
-          src="https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_detalhe2.jpg?ims=326x"
+          src="https://images.lojanike.com.br/320x320/produto/4030_367610_20190607094009.png"
           alt="Tênis"
         />
         <strong>Tênis muito legal!</strong>
