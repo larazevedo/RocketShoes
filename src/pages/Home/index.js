@@ -77,7 +77,7 @@ e acrescenta o action.product.
 e que estão necessitando da informação daquele reducer e executa novamente com as informações novas.
 
 
-Ciclo:
+Ciclo do REDUX:
   Componente dispara uma action ->
     Action avisa o reducer ->
       Reducer faz as alterações necessárias ->
