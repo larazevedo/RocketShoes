@@ -75,4 +75,12 @@ item no carrinho, retorna [ ...state], ou seja, já pega tudo o que tem no state
 e acrescenta o action.product.
   Assim que foram feitas essas atualizações, o redux avisa todos os componentes que possuem o connect
 e que estão necessitando da informação daquele reducer e executa novamente com as informações novas.
+
+
+Ciclo:
+  Componente dispara uma action ->
+    Action avisa o reducer ->
+      Reducer faz as alterações necessárias ->
+        Redux avisa todos os componentes dependentes daquela informação ->
+          Componentes se atualizam com a nova informação.
 */
