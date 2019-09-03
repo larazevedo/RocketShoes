@@ -4,7 +4,7 @@ import produce from 'immer';
 export default function cart(state = [], action) {
   // Switch garante que o reducer ouve somente a ação ADD TO CART
   switch (action.type) {
-    case 'ADD_TO_CART':
+    case '@cart/ADD':
       return produce(state, draft => {
         // Verifica se o id do produto já está no carrinho
         const productIndex = draft.findIndex(p => p.id === action.product.id);
@@ -20,7 +20,7 @@ export default function cart(state = [], action) {
         }
       });
 
-    case 'REMOVE_FROM_CART':
+    case '@cart/REMOVE':
       return produce(state, draft => {
         const productIndex = draft.findIndex(p => p.id === action.id);
 
